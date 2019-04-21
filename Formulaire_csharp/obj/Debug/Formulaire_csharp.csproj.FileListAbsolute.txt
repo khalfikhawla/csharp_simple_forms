@@ -1,0 +1,9 @@
+d:\Desktop\CSharp\projet\Formulaire_csharp\Formulaire_csharp\bin\Debug\Formulaire_csharp.exe.config
+d:\Desktop\CSharp\projet\Formulaire_csharp\Formulaire_csharp\bin\Debug\Formulaire_csharp.exe
+d:\Desktop\CSharp\projet\Formulaire_csharp\Formulaire_csharp\bin\Debug\Formulaire_csharp.pdb
+d:\Desktop\CSharp\projet\Formulaire_csharp\Formulaire_csharp\obj\Debug\Formulaire_csharp.csprojResolveAssemblyReference.cache
+d:\Desktop\CSharp\projet\Formulaire_csharp\Formulaire_csharp\obj\Debug\Formulaire_csharp.Form1.resources
+d:\Desktop\CSharp\projet\Formulaire_csharp\Formulaire_csharp\obj\Debug\Formulaire_csharp.Properties.Resources.resources
+d:\Desktop\CSharp\projet\Formulaire_csharp\Formulaire_csharp\obj\Debug\Formulaire_csharp.csproj.GenerateResource.Cache
+d:\Desktop\CSharp\projet\Formulaire_csharp\Formulaire_csharp\obj\Debug\Formulaire_csharp.exe
+d:\Desktop\CSharp\projet\Formulaire_csharp\Formulaire_csharp\obj\Debug\Formulaire_csharp.pdb
