@@ -68,7 +68,7 @@ namespace Formulaire_csharp
 
             catch (Exception)
             {
-                MessageBox.Show("verfier le champ 1 ");
+                MessageBox.Show("verfier le champ 1 " ,"Attention",MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
             try
             {
@@ -76,7 +76,7 @@ namespace Formulaire_csharp
             }
             catch (Exception)
             {
-                MessageBox.Show("verfier le champ 2 ");
+                MessageBox.Show("verfier le champ 2 " , "Attention" , MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
             if (radio_multiplication.Checked == true)
             {
@@ -95,7 +95,7 @@ namespace Formulaire_csharp
                 }
                 catch (Exception)
                 {
-                    MessageBox.Show("en ne devise pas sur zero");
+                    MessageBox.Show("en ne devise pas sur zero" ,"Attention" ,MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
             }
             else
