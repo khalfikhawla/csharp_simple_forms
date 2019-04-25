@@ -68,9 +68,9 @@
             this.somme.AutoSize = true;
             this.somme.Location = new System.Drawing.Point(59, 189);
             this.somme.Name = "somme";
-            this.somme.Size = new System.Drawing.Size(42, 13);
+            this.somme.Size = new System.Drawing.Size(46, 13);
             this.somme.TabIndex = 2;
-            this.somme.Text = "Somme";
+            this.somme.Text = "Resultat";
             this.somme.Click += new System.EventHandler(this.somme_Click);
             // 
             // textBox_num1
